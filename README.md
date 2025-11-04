@@ -6,6 +6,21 @@ A modern, terminal-style application for downloading webtoons and manga as PDF f
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Python](https://img.shields.io/badge/python-3.10+-green)
 
+<a href="https://github.com/anibeat495/Webtoon-Downloader/releases/tag/webtoon-downloader" target="_blank" style="background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;">
+  ⬇️ **DOWNLOAD NOW**
+</a>
+
+
 ## ✨ Features
 
 ### 🎨 Modern Terminal-Style UI
