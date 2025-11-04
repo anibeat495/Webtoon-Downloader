@@ -6,7 +6,7 @@ A modern, terminal-style application for downloading webtoons and manga as PDF f
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Python](https://img.shields.io/badge/python-3.10+-green)
 
-[![Download Now](https://i.ibb.co/zKbHkkh/unnamed-1-1.jpg)](https://github.com/anibeat495/Webtoon-Downloader/releases/tag/webtoon-downloader)
+[![Download Now]([https://i.ibb.co/zKbHkkh/unnamed-1-1.jpg](https://i.imghippo.com/files/Yhl3682uMA.jpg))](https://github.com/anibeat495/Webtoon-Downloader/releases/tag/webtoon-downloader)
 
 
 ## ✨ Features
