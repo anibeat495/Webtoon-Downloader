@@ -2,7 +2,7 @@
 
 A modern, terminal-style application for downloading webtoons and manga as PDF files with a clean, professional interface.
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Version](https://img.shields.io/badge/version-1.0.1-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Python](https://img.shields.io/badge/python-3.10+-green)
 
