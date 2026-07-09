@@ -289,41 +289,6 @@ https://www.webtoons.com/en/drama/true-beauty/...
 - **Open source**: Code is transparent
 - **Automatic updates**: No automatic updates
 
----
-
-## ❓ FAQ
-
-### Q: Is this free?
-**A:** Yes, completely free to use.
-
-### Q: Do I need an account?
-**A:** No, no registration required.
-
-### Q: What format are downloads?
-**A:** PDF format, ready to read.
-
-### Q: Can I download entire series?
-**A:** Yes, use "Select All" in chapter selection.
-
-### Q: Where are downloads saved?
-**A:** In `downloads` folder, organized by series name.
-
-### Q: Can I use this on mobile?
-**A:** No, Windows desktop only.
-
-### Q: Does it work offline?
-**A:** No, internet connection required.
-
-### Q: Can I cancel downloads?
-**A:** Yes, click "Stop Download" button.
-
-### Q: Are downloads permanent?
-**A:** Yes, PDFs saved locally forever.
-
-### Q: Can I redistribute PDFs?
-**A:** Check the original content's copyright/license.
-
----
 
 ## 🎨 Interface Screenshots
 
@@ -335,25 +300,6 @@ Popup window with all available chapters, easy selection with checkboxes.
 
 ### Live Download
 One-line updating progress bars showing real-time download status.
-
----
-
-## 🆘 Support
-
-### Getting Help
-1. Check Activity Logs in app
-2. Review Troubleshooting section above
-3. Check FAQ
-4. Verify internet connection
-5. Try restarting application
-
-### Error Messages
-All errors displayed in Activity Logs with:
-- **Timestamp**: When error occurred
-- **Details**: What went wrong
-- **Level**: Error/Warning severity
-
----
 
 ## 📝 License & Credits
 
@@ -370,11 +316,6 @@ All errors displayed in Activity Logs with:
 - **img2pdf**: PDF conversion
 - **Requests**: HTTP library
 - **BeautifulSoup**: HTML parsing
-
-### Credits
-Created with modern design principles and user experience in mind.
-
----
 
 ## 🚀 Getting Started Checklist
 
